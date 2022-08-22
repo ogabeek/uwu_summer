@@ -1,4 +1,4 @@
-/* Task 1 - Своп максимальных и минимальных значений матрицы
+/* Task 1 - Своп максимальных и минимальных значений матрицы */
 
 #include <stdio.h>
 
@@ -60,7 +60,7 @@ int main() {
 
 =====================================================================
 /* Task 3 - На вход подается строка, является она палиндромом или нет 
-Вариант 1
+Вариант 1						*/
 
 #include <stdio.h>
 #include <string.h>
@@ -93,7 +93,7 @@ int main(){
     return 0;
 }
 
-Вариант 2
+/* ==== Вариант 2. */
 
 #include <stdio.h>
 #include <string.h>
@@ -121,7 +121,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 4 - Умножение матриц
+/* Task 4 - Умножение матриц */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -186,7 +186,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 5 - Перевод в верхний регистр первого символа каждого слова
+/* Task 5 - Перевод в верхний регистр первого символа каждого слова*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -251,7 +251,7 @@ area1234 --> Area1234
 */
 
 =====================================================================
-/* Task 6 - На вход подается три числа, вывести 1 если третье число находится между первым и вторым. Без иф
+/* Task 6 - На вход подается три числа, вывести 1 если третье число находится между первым и вторым. Без иф*/
 
 #include <stdio.h>
 #include <math.h>
@@ -284,7 +284,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 7 - Вывести число в обратном порядке
+/* Task 7 - Вывести число в обратном порядке*/
 
 #include <stdio.h>
 
@@ -309,7 +309,7 @@ int main() {
 
 =====================================================================
 /* Task 8 - Дана последовательность чисел. Конец последовательности -1. Вывести в порядке Вывести x1 xn x2 xn-1 x3 xn-2 и так далее
-Реализация через динамический массив 
+Реализация через динамический массив */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -357,7 +357,7 @@ int main() {
 
 =====================================================================
 /* Task 9 - Дана последовательность чисел. Конец последовательности -1. Вывести в порядке Вывести x1 xn x2 xn-1 x3 xn-2 и так далее
-Реализация через статик массив 
+Реализация через статик массив */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -390,7 +390,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 10 - Факториал - реализация через статик массив 
+/* Task 10 - Факториал - реализация через статик массив */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -430,7 +430,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 11 - Задача перевода радиуса шара в радианы
+/* Task 11 - Задача перевода радиуса шара в радианы*/
 
 Вариант 1
 #include <stdio.h>
@@ -479,7 +479,7 @@ printf("%.0lf", result) ;
 */
 
 Вариант 2
-/*
+
 #include <math.h>
 #include <stdio.h>
 
@@ -517,7 +517,7 @@ r = 1, 10.
 6. Test for leaks */
 
 =====================================================================
-/* Task 12 - Транспонирование матрицы
+/* Task 12 - Транспонирование матрицы             */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -604,7 +604,7 @@ int main() {
 
 =====================================================================
 /* Task 13 - Дана последовательность целх числе. Число н. Символ конца -1. 
-Вывести х1 хн х2 хн-1 х3 хн-2
+Вывести х1 хн х2 хн-1 х3 хн-2 */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -652,7 +652,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 14 - Умножение матрица через динамический массив
+/* Task 14 - Умножение матрица через динамический массив.  */ 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -720,7 +720,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 15 - Умножение матриц через статик
+/* Task 15 - Умножение матриц через статик. */
 
 #include <stdio.h>
 
@@ -768,8 +768,8 @@ int main() {
 */
 
 =====================================================================
-/* Task 16 - Задание с пробелом
-
+/* Task 16 - Задание с пробелом. */
+ 
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -886,7 +886,7 @@ int main() {
 =====================================================================
 /* Task 18 - Написать программу, осуществляющую удаление повторяющихся элементов в последовательности, состоящей из целых неотрицательных чисел. (Концом последовательности считать -1)
 Порядок элементов в результирующей последовательности должен соответствовать порядку первых вхождений соответствующих чисел в исходной последовательности  
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -931,7 +931,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 19 - Rotate matrix with malloc
+/* Task 19 - Rotate matrix with malloc */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -991,7 +991,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 20 - Snake side to side
+/* Task 20 - Snake side to side */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -1046,7 +1046,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 21 - Snake to center
+/* Task 21 - Snake to center */
 
 #include <stdio.h>
 
@@ -1113,7 +1113,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 21 - Snake spiral
+/* Task 21 - Snake spiral */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -1185,7 +1185,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 23 - Структура - люди
+/* Task 23 - Структура - люди */
 
 #include <stdio.h>
 #define NMAX 20
@@ -1229,7 +1229,7 @@ void output(struct Person* people, int number_of_elements, int h_number) {
 */
 
 =====================================================================
-/* Task 24 - Структура имя фамилия рост
+/* Task 24 - Структура имя фамилия рост */
 
 Вариант 1
 #include <stdio.h>
@@ -1313,8 +1313,8 @@ void output(struct Person* people, int number_of_elements, int h_number) {
 }
 */
 =====================================================================
-/* Task 25 - Транспонирование матрицы через статик 
-
+/* Task 25 - Транспонирование матрицы через статик  */
+ 
 #include <stdio.h>
 
 int main() {
@@ -1345,7 +1345,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 26 - Еще одно транспонирование матрицы
+/* Task 26 - Еще одно транспонирование матрицы */
 
 #include <stdio.h>
 
@@ -1386,7 +1386,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 27 - split the digits
+/* Task 27 - split the digits */
 
 #include<stdio.h>
 
@@ -1409,7 +1409,7 @@ int main()
 */
 
 =====================================================================
-/* Task 28 - Биноминальный коэф
+/* Task 28 - Биноминальный коэф */
 
 #include <stdio.h>
 
@@ -1443,7 +1443,7 @@ int c_formula(int number, int k) {
 */
 
 =====================================================================
-/* Task 29 - Структура: студенты 
+/* Task 29 - Структура: студенты  */
 
 Build a structure of Students, there is name and lastname and grade of a student
 Create a program to output the first and lastname of those students, whose grades are at the top
@@ -1451,9 +1451,7 @@ Output result - "First name, Last name, Second first name, Second last name"
 In case of invalid input, output - "n/a"
 Maximum length of a name is 20 chars long, total number of students is entered beforehand. The input in entered one line at a time - \n
 Grade cannot be negative. Name is a string without spaces and with a newline at the end
-*/
 
-/*
 + 1. Build a structure of Students
 + 2. Take input - total number of Students
 + 3. Take input of names and grades 
@@ -1561,7 +1559,7 @@ int input_number_of_students() {
 }
 */
 =====================================================================
-/* Task 30 - Getting familiar with atoi
+/* Task 30 - Getting familiar with atoi */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -1576,7 +1574,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 31 - Input multiply odd
+/* Task 31 - Input multiply odd */
 
 #include <stdio.h>
 
@@ -1615,7 +1613,7 @@ int main() {
 =====================================================================
 /* Task 32 - Multiply every number by n-1 - Reworked with dynamic memory.c
 Дана последовательность целых чиселЧисло nСимвол конца -1
-Вывести x1 xn x2 xn-1 x3 xn-2 и так далее
+Вывести x1 xn x2 xn-1 x3 xn-2 и так далее */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -1664,15 +1662,15 @@ int main() {
 */
 
 =====================================================================
-/* Task 33- Неограниченный ввод целых чисел. Записать в обратном порядке введенные числа. The last symbol is newline. 
-+ 1. Use malloc to allocate memory for the array of numbers
+/* Task 33- Неограниченный ввод целых чисел. Записать в обратном порядке введенные числа. The last symbol is newline.  */
++ 1. Use malloc to allocate memory for the array of numbers 
 + 2. Take input
 + 3. Use realloc to add more memory as I get more numbers
 + 4. Work around invalid input
 + 5. Test
 + 6. Cpplint test
 + 7. Add and push
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -1716,7 +1714,7 @@ int main() {
 */
 
 =====================================================================
-/* Task 34 - Transposition of any matrix
+/* Task 34 - Transposition of any matrix */
 
 #include <stdio.h>
 int main() {
@@ -1755,13 +1753,13 @@ int main() {
 */
 
 =====================================================================
-/* Task 35 - Ссылки на сайт с задачами
+/* Task 35 - Ссылки на сайт с задачами */
 
 https://studassistent.ru/c
 
 */
 =========================================== На сортировку ==================================================================
-/* #include <stdio.h>
+ #include <stdio.h>
 #include <math.h>
 
 
@@ -1776,9 +1774,7 @@ int main () {
         return 0;
     }
 }
-*/
 
-/*
 int main () {
     double x;
     if (scanf("%.0lf", &x) != 1) {
@@ -1794,10 +1790,7 @@ int main () {
      
 }
 
-*/
 
-
-/*
 int main()
 {
     int x, y, z;
@@ -1816,9 +1809,7 @@ int main()
     return 0;
 }
 }
-*/
 
-/*
 int main() {
     int x = 0;
     int y1,y2,y3;
@@ -1838,9 +1829,7 @@ int main() {
     return 0;
 }
 
-*/
 
-/*
 int main (void) {
         double x;
 
@@ -1856,7 +1845,7 @@ int main (void) {
 }
 */
 
-/* 3.01
+/* 3.01 */
 #include <stdio.h>
 #include <math.h>
 
@@ -1875,7 +1864,7 @@ int main()
 
 */
 
-/* 3.02 
+/* 3.02 */
 #include <stdio.h>
 #include <math.h>
 
@@ -1893,7 +1882,7 @@ int main (void) {
 }
 */
 
-/* 3.02(2 variant)
+/* 3.02(2 variant) */
 #include <stdio.h>
 #include <math.h>
 
@@ -1911,7 +1900,7 @@ int main (void) {
 }
 */
 
-/* 3.03
+/* 3.03 */
 #include <stdio.h>
 
 int main () {
@@ -1937,7 +1926,7 @@ int main () {
 }
 */
 
-/* 3.05
+/* 3.05 */
 #include <stdio.h>
 int main()
 {
@@ -1960,7 +1949,7 @@ int main()
 }
 */
 
-/* 4.02
+/* 4.02 */
 #include <stdio.h>
 
 int max(int *data, int *m);
@@ -1989,7 +1978,7 @@ int main() {
 }
 */
 
-/* 5.02
+/* 5.02 */
 #include <stdio.h>
 
 int main() {
@@ -2026,7 +2015,7 @@ int main() {
 }
 */
 
-/* 5.03
+/* 5.03 */
 #include <stdio.h>
 // #define N_MAX 10000;
 
@@ -2065,7 +2054,7 @@ int main() {
 }
 */
 
-/* 5.04
+/* 5.04 */
 #include <stdio.h>
 #include <stdlib.h>
 
